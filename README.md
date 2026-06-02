@@ -1,5 +1,17 @@
 # Real-TIme-Collaboration-Tool
 
+**COMPANY**: CODTECH IT SOLUTIONS
+
+**NAME**: HARDIKKUMAR SITANSHUBHAI PATEL
+
+**INTERN ID**: CITS179
+
+**DOMAIN**: MERN STACK WEB DEVELOPMENT
+
+**BATCH DURATION**: MAY 09th,2026 to JUNE 6th, 2026
+
+**MENTOR NAME** : NEELA SANTHOSH KUMAR
+
 This is a real-time collaborative document editing web application built using the MERN stack (MongoDB, Express.js, React, Node.js), Socket.IO for real-time communication, and Quill as the text editor.
 
 ## Screenshots:
